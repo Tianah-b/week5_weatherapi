@@ -1,5 +1,5 @@
 import express from "express";
-import weatherRoute from "./routes/weatherRoute.js";
+import weatherRoute from "./routes/weatherRoute";
 
 const app = express();
 const PORT = 3000;
